@@ -1,0 +1,20 @@
+{
+  "devDependencies": {
+    "@prettier/plugin-php": "^0.22.2",
+    "eslint": "^9.5.0",
+    "prettier": "3.3.2"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  },
+  "name": "control",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
